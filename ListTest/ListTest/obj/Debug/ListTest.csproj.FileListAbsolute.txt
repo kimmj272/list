@@ -1,0 +1,10 @@
+D:\CShop\ListTest\ListTest\bin\Debug\ListTest.exe.config
+D:\CShop\ListTest\ListTest\bin\Debug\ListTest.exe
+D:\CShop\ListTest\ListTest\bin\Debug\ListTest.pdb
+D:\CShop\ListTest\ListTest\obj\Debug\ListTest.csprojAssemblyReference.cache
+D:\CShop\ListTest\ListTest\obj\Debug\ListTest.frmMain.resources
+D:\CShop\ListTest\ListTest\obj\Debug\ListTest.Properties.Resources.resources
+D:\CShop\ListTest\ListTest\obj\Debug\ListTest.csproj.GenerateResource.cache
+D:\CShop\ListTest\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+D:\CShop\ListTest\ListTest\obj\Debug\ListTest.exe
+D:\CShop\ListTest\ListTest\obj\Debug\ListTest.pdb
